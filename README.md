@@ -4,7 +4,7 @@ Here you see my introduction  ,what i achive, how  much i known about coding , t
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="400" src="Screenshot_20241020_220655_Video Player.jpg/Internal storage/DCIM/Screenshots">
+<img align="right" alt="coding" width="400" src="![Uploading image.png…]()">
 
 "Hi, I'm Deep Khatri 👋<br>Passionate coder & problem-solver 💻<br>Building innovative solutions since 2020 🚀<br>Expertise: HTML, CSS, JS, C, C++, PHP, MYSQL/AI 💡<br>Collaborator, lifelong learner, & coffee lover ☕️<br>Let's create something amazing together! 🤝<br>Check out my projects & repositories below 📁<br>Feel free to reach out: Deepkhatri050@gmail.com 📲<br>Always learning, always growing 🚀<br>Code, create, repeat! 💻"
 
